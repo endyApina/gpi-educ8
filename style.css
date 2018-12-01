@@ -1,0 +1,83 @@
+<style>
+	body{
+		background-color: red;
+	}
+	.home-image{
+		/*margin-top: -15px;*/
+		/*background-image: url(./assets/global/img/portfolio/1200x900/74.jpg);*/
+		background-image: url(./assets/pages/media/bg/5.jpg);
+		/*height: 400px;*/
+		width: 100%;
+		/*margin-left: -110px;
+		margin-right: -110px;*/
+	}
+	.my-container{
+		/* width: 100%; */
+	  	margin: 0;
+	  	border: 0;
+	  	padding: 0;
+	}
+	.home-contents{
+		color: white;
+		padding-top: 15%;
+		padding-bottom: 15%;
+
+	}
+	.departments{
+		background-color: #BFCAD1;
+		padding-top: 20px;
+		padding-right: 20px;
+		padding-left: 20px;
+		padding-bottom: 30px;
+		font-style: inherit;
+
+	}
+	.department-content{
+		color: #555555;
+		background-color: #E5E5E5;
+		/*padding-top: 20px;
+		padding-bottom: 20px;
+		padding-left: 20px;
+		padding-right: 20px;*/
+		position: relative;
+		height: 100%;
+	}
+	.experience{
+		/*background-image: url(./assets/global/img/portfolio/1200x900/75.jpg);*/
+		background-color: #E1E5EC;
+		width: 100%;
+		opacity: 10pc;
+		/*height: 300px;*/
+		color: black;
+	}
+	.experience-image{
+		background-image: url(./assets/pages/media/works/img4.jpg) center no-repeat;
+	}
+	.experience-content{
+		padding-top: 20%;
+		padding-bottom: 20%;
+	}
+	.home-banner{
+		/*width: 1355px;
+		margin-left: -110px;*/
+	}
+	.search-course{
+		/*width: 350px;*/
+	}
+	.home-banner{
+		/*width: 100% !important;*/
+		/*height: 100px;*/
+	}
+	/*.tab-1-content{
+		padding-top: 20px;
+		padding-left: 140px;
+	}
+	.tab-2-content{
+		padding-top: 20px;
+		padding-left: 90px;
+	}
+	.tab-3-content{
+		padding-top: 20px;
+		padding-left: 80px;
+	}*/
+</style>
